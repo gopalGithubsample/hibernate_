@@ -1,0 +1,3 @@
+entities/Student.class
+com/example/hibernatestudent/Main.class
+utilities/SessionFactoryProvider.class
